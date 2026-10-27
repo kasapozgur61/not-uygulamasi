@@ -1,0 +1,5 @@
+1. ls - dizin icerigini listeler
+2. cd - dizin degistirir
+3. mkdir - yeni klasor olusturur
+4. rm - dosya siler
+5. cat - dosya icerigini gosterir
